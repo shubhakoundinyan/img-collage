@@ -5,7 +5,7 @@
  \____\___/|_|_|\__,_|\__, |\___|
                       |___/     
 
-OVERVIEW:
+OVERVIEW: 
 
 Pictures are memories. And everyone of us loves to stitch up many memories together to make the perfect collages. I know there are lot of apps out there that can help to build the best of the collages, but I made a small attempt to build a small image stitching script that allows to accomplish the same.
 
