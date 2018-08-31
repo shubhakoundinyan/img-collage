@@ -78,7 +78,7 @@ new_im.save('test.jpg')
 #imgplot = plt.imshow(new_im)
 #plt.show()
 
-#Delete resized files
+#Deleting resized files
 
 for file in os.listdir(path):
     if os.path.isfile(file) and file.startswith("Save"):
